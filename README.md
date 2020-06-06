@@ -8,7 +8,7 @@ try	again	in	another	direction.
 ## Exaqmple 1:
 
 #### Map:
-
+```
 ---#--###--#-
 -#---#----##-
 ####-#-#-#-##
@@ -17,7 +17,7 @@ try	again	in	another	direction.
 -#------#----
 -############
 ------------@
-
+```
 #### Result:
 
 Woo hoo, I found the treasure :-)
@@ -25,7 +25,7 @@ Woo hoo, I found the treasure :-)
 ## Exaqmple 2:
 
 #### Map:
-
+```
 ---#--###--#@
 -#---#----##-
 ####-#-#-#-##
@@ -34,7 +34,7 @@ Woo hoo, I found the treasure :-)
 -#------#----
 -############
 -------------
-
+```
 #### Result:
 
 Uh oh, I could not find the treasure :-(
